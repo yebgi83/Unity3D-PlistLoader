@@ -4,6 +4,7 @@ using System;
 using System.Collections;
 using System.Xml;
 
+/* Author : Lee kang-yong (yebgi83@gmail.com) */
 public class PlistDocument {
 	private PlistDictionary rootDictionary;
 	

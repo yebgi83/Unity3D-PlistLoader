@@ -5,6 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Xml;
 
+/* Author : Lee kang-yong (yebgi83@gmail.com) */
 public class PlistNode {
 	static private Dictionary<string, Func<XmlNode, object>> valueTypes;
 
