@@ -1,4 +1,4 @@
-PlistLoader
+PlistSupport
 ===========
 
-PlistLoader in C#
+PlistSupport in Unity. It is made by C#.
